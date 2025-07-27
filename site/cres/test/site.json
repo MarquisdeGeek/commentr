@@ -1,9 +1,9 @@
 {
-    data: [
+    "data": [
         {
-            section: "wiki",
-            icon: "",
-            comment: "Stuff about site"
+            "section": "wiki",
+            "icon": "",
+            "comment": "Stuff about site"
         }
     ]
 }
